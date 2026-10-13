@@ -1,0 +1,6 @@
+@LAB05_JosueChoquepuma_HostAddress = http://localhost:5252
+
+GET {{LAB05_JosueChoquepuma_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
